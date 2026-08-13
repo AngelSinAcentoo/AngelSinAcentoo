@@ -1,63 +1,49 @@
 <div align="center">
 
-# Hi, I'm Angel Escobar 👋
+# Angel Escobar
 
-### Junior Data Analyst · Computer Engineering Student at UNAM
+### Junior Data Analyst | Computer Engineering Student at UNAM
 
-I build data workflows and automation tools that turn repetitive processes into reliable, useful information.
+I work with data, automation, and internal software. My projects focus on turning manual processes and inconsistent data into workflows that are easier to test and maintain.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://mx.linkedin.com/in/angel-emiliano-escobar-hern%C3%A1ndez-98a87b38a)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:escobaremiliano173@gmail.com)
+[LinkedIn](https://mx.linkedin.com/in/angel-emiliano-escobar-hern%C3%A1ndez-98a87b38a) · [Email](mailto:escobaremiliano173@gmail.com)
 
 </div>
 
 ## About me
 
-- 🎓 Computer Engineering student at **UNAM, Faculty of Engineering**
-- 📊 Junior Data Analyst focused on **data quality, ETL and process automation**
-- 🐍 I use **Python, Pandas and SQL** to clean, validate and integrate data
-- ⚙️ I automate data collection and repetitive workflows with **Python and Playwright**
-- 📈 I build practical interfaces and reports that support data-driven decisions
-- 🌎 Based in Mexico City · Spanish (native) · English (B2)
+- Seventh-semester Computer Engineering student at UNAM, Faculty of Engineering
+- Junior Data Analyst with experience in data cleaning, validation, ETL, and process automation
+- Python, pandas, SQL, and Playwright for data collection and transformation
+- MySQL, Streamlit, and Plotly for storage, internal tools, and operational dashboards
+- Based in Mexico City. Spanish is my native language and my English level is B2
 
-## Tech stack
+## How I use AI for development
 
-**Data & automation**
+I use AI coding agents as the main implementation support for web development. My work includes translating business rules into requirements, providing context, reviewing generated code, testing with real data, investigating failures, and validating the complete workflow.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+I describe this process openly because the useful part is not only generating code. It is understanding the problem well enough to verify that the result is correct.
 
-**Databases & development**
+## Selected projects
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [Delivery Logistics Database](https://github.com/AngelSinAcentoo/delivery-logistics-database) | Relational modeling, constraints, queries, stored procedures, triggers, and integration tests | SQL Server, T-SQL, PowerShell |
+| [Data Structures and Algorithms](https://github.com/AngelSinAcentoo/data-structures-algorithms-python) | Tested implementations of sorting, graphs, hash tables, search trees, and B-trees | Python, unittest |
+| [x86 DOS Matrix Lab](https://github.com/AngelSinAcentoo/x86-dos-matrix-lab) | A modular 4x4 matrix calculator for 16-bit DOS with an assembly test harness | x86 Assembly, TASM, DOSBox |
+| [AI Course Labs](https://github.com/AngelSinAcentoo/ai-course-labs) | Iris classification and extractive question answering organized as reproducible exercises | Python, TensorFlow, Transformers |
 
-## Featured project
+## Tools I use
 
-### [Quotation Monitoring & Automation](https://github.com/AngelSinAcentoo/monitor-cotizaciones-imss-graph-test)
+**Data and automation:** Python, pandas, SQL, Playwright, Excel, ETL
 
-Python-based system for monitoring quotation emails, extracting and validating data, generating PDFs, and presenting results in a dashboard. The current work focuses on migrating the email integration from Outlook COM to **Microsoft Graph API** for better portability and cloud compatibility.
+**Databases and applications:** MySQL, SQL Server, Streamlit, Plotly
 
-`Python` · `Data extraction` · `Process automation` · `Microsoft Graph` · `Dashboard`
+**Academic work:** Java, C, x86 Assembly, data structures, algorithms, artificial intelligence
 
-## What I'm working on
+## Current focus
 
-- Automated ETL pipelines for structured and government-sourced data
-- Product and supplier data standardization
-- Market-price analysis and historical comparisons
-- Reliable, repeatable workflows that reduce manual work and operational errors
-
----
-
-<div align="center">
-
-Open to collaborating on **data engineering, analytics and automation** projects.
-
-</div>
+- Data extraction and quality checks
+- Repeatable ETL workflows
+- Process automation with observable failure handling
+- AI-assisted software development that can be reviewed and tested
