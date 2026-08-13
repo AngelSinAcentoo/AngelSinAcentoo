@@ -15,7 +15,7 @@ I work with data, automation, and internal software. My projects focus on turnin
 - Seventh-semester Computer Engineering student at UNAM, Faculty of Engineering
 - Junior Data Analyst with experience in data cleaning, validation, ETL, and process automation
 - Python, pandas, SQL, and Playwright for data collection and transformation
-- MySQL, Streamlit, and Plotly for storage, internal tools, and operational dashboards
+- MySQL, React, TypeScript, and Fastify for data-backed internal applications
 - Based in Mexico City. Spanish is my native language and my English level is B2
 
 ## How I use AI for development
@@ -37,7 +37,7 @@ I describe this process openly because the useful part is not only generating co
 
 **Data and automation:** Python, pandas, SQL, Playwright, Excel, ETL
 
-**Databases and applications:** MySQL, SQL Server, Streamlit, Plotly
+**Databases and applications:** MySQL, SQL Server, React, TypeScript, Fastify
 
 **Academic work:** Java, C, x86 Assembly, data structures, algorithms, artificial intelligence
 
